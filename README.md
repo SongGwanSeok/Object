@@ -9,12 +9,11 @@
 
 | Section  |Date| 완료 |
 |----------|--| -- |
-| Section1 |2024.04.28 WED|   |
-| Section2 |2024.05.01 SUN|   |
-| Section3 |2024.05.05 WED|   |
-| Section4 |2024.05.08 SUN|   |
-| Section5 |2024.05.12 WED|   |
-| Section6 |2024.05.15 SUN|   |
+| Section1 - 2 |2024.05.01 WED|   |
+| Section3 |2024.05.05 SUN|   |
+| Section4 |2024.05.08 WED|   |
+| Section5 |2024.05.12 SUN|   |
+| Section6 |2024.05.15 WED|   |
 
 총무 : 호기
 
